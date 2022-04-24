@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/CRC/workshop/TestPOMaccenture">
+        <classes>
+            <class name="tests.TestMainPage">
+                <methods>
+                    <include name="testSearchFunctionality"/>
+                    <include name="testMainMenu"/>
+                    <include name="testSiteNavigation"/>
+                    <include name="testFooter"/>
+                    <include name="testSubscribeFooter"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="6" passed="3" failed="2" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[TS - Main Page - Site Navigation]]>
+    </line>
+    <line>
+      <![CDATA[Step 1 : clickSiteNavIdeas]]>
+    </line>
+    <line>
+      <![CDATA[Step 2 : clickSiteNavJoin]]>
+    </line>
+    <line>
+      <![CDATA[Step 3 : clickSiteNavCase]]>
+    </line>
+    <line>
+      <![CDATA[Step 4 : clickSiteNavLeading]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\CRC\workshop\TestPOMaccenture\test-output\test-screenshots\screen_testSiteNavigation.png'> <img src='C:\CRC\workshop\TestPOMaccenture\test-output\test-screenshots\screen_testSiteNavigation.png' height='200' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Close Browser - End Test]]>
+    </line>
+    <line>
+      <![CDATA[TS - Main Page - Main Menu]]>
+    </line>
+    <line>
+      <![CDATA[Step 1 : clickMenuInsights]]>
+    </line>
+    <line>
+      <![CDATA[Step 2 : clickMenuServices]]>
+    </line>
+    <line>
+      <![CDATA[Step 3 : clickMenuIndustries]]>
+    </line>
+    <line>
+      <![CDATA[Step 4 : clickMenuCareers]]>
+    </line>
+    <line>
+      <![CDATA[Step 5 : clickMenuAboutAccenture]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\CRC\workshop\TestPOMaccenture\test-output\test-screenshots\screen_testMainMenu.png'> <img src='C:\CRC\workshop\TestPOMaccenture\test-output\test-screenshots\screen_testMainMenu.png' height='200' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Close Browser - End Test]]>
+    </line>
+    <line>
+      <![CDATA[TS - Main Page - Search Functionality]]>
+    </line>
+    <line>
+      <![CDATA[TC - Check search func]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\CRC\workshop\TestPOMaccenture\test-output\test-screenshots\screen_testSearchFunctionality.png'> <img src='C:\CRC\workshop\TestPOMaccenture\test-output\test-screenshots\screen_testSearchFunctionality.png' height='200' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Close Browser - End Test]]>
+    </line>
+    <line>
+      <![CDATA[TS - Main Page - Footer]]>
+    </line>
+    <line>
+      <![CDATA[Step 1 : clickFooterAboutUs]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\CRC\workshop\TestPOMaccenture\test-output\test-screenshots\screen_testFooter.png'> <img src='C:\CRC\workshop\TestPOMaccenture\test-output\test-screenshots\screen_testFooter.png' height='200' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Close Browser - End Test]]>
+    </line>
+    <line>
+      <![CDATA[TS - Main Page - Subscribe]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\CRC\workshop\TestPOMaccenture\test-output\test-screenshots\screen_testSubscribeFooter.png'> <img src='C:\CRC\workshop\TestPOMaccenture\test-output\test-screenshots\screen_testSubscribeFooter.png' height='200' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Close Browser - End Test]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-04-21T14:19:06Z" name="All Test Suite" finished-at="2022-04-21T14:22:18Z" duration-ms="192087">
+    <groups>
+    </groups>
+    <test started-at="2022-04-21T14:19:06Z" name="C:/CRC/workshop/TestPOMaccenture" finished-at="2022-04-21T14:22:18Z" duration-ms="192087">
+      <class name="tests.TestMainPage">
+        <test-method is-config="true" signature="before()[pri:0, instance:tests.TestMainPage@36b4fe2a]" started-at="2022-04-21T14:19:06Z" name="before" finished-at="2022-04-21T14:19:33Z" duration-ms="27139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="testSiteNavigation()[pri:-1, instance:tests.TestMainPage@36b4fe2a]" started-at="2022-04-21T14:19:34Z" name="testSiteNavigation" finished-at="2022-04-21T14:19:39Z" duration-ms="5493" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TS - Main Page - Site Navigation]]>
+            </line>
+            <line>
+              <![CDATA[Step 1 : clickSiteNavIdeas]]>
+            </line>
+            <line>
+              <![CDATA[Step 2 : clickSiteNavJoin]]>
+            </line>
+            <line>
+              <![CDATA[Step 3 : clickSiteNavCase]]>
+            </line>
+            <line>
+              <![CDATA[Step 4 : clickSiteNavLeading]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\CRC\workshop\TestPOMaccenture\test-output\test-screenshots\screen_testSiteNavigation.png'> <img src='C:\CRC\workshop\TestPOMaccenture\test-output\test-screenshots\screen_testSiteNavigation.png' height='200' width='200'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Close Browser - End Test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSiteNavigation -->
+        <test-method is-config="true" signature="after(org.testng.ITestResult)[pri:0, instance:tests.TestMainPage@36b4fe2a]" started-at="2022-04-21T14:19:39Z" name="after" finished-at="2022-04-21T14:19:42Z" duration-ms="2160" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSiteNavigation status=SUCCESS method=TestMainPage.testSiteNavigation()[pri:-1, instance:tests.TestMainPage@36b4fe2a] output=TS - Main Page - Site Navigation]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:tests.TestMainPage@36b4fe2a]" started-at="2022-04-21T14:19:42Z" name="before" finished-at="2022-04-21T14:20:06Z" duration-ms="24918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="testMainMenu()[pri:0, instance:tests.TestMainPage@36b4fe2a]" started-at="2022-04-21T14:20:06Z" name="testMainMenu" finished-at="2022-04-21T14:20:15Z" duration-ms="8217" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TS - Main Page - Main Menu]]>
+            </line>
+            <line>
+              <![CDATA[Step 1 : clickMenuInsights]]>
+            </line>
+            <line>
+              <![CDATA[Step 2 : clickMenuServices]]>
+            </line>
+            <line>
+              <![CDATA[Step 3 : clickMenuIndustries]]>
+            </line>
+            <line>
+              <![CDATA[Step 4 : clickMenuCareers]]>
+            </line>
+            <line>
+              <![CDATA[Step 5 : clickMenuAboutAccenture]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\CRC\workshop\TestPOMaccenture\test-output\test-screenshots\screen_testMainMenu.png'> <img src='C:\CRC\workshop\TestPOMaccenture\test-output\test-screenshots\screen_testMainMenu.png' height='200' width='200'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Close Browser - End Test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testMainMenu -->
+        <test-method is-config="true" signature="after(org.testng.ITestResult)[pri:0, instance:tests.TestMainPage@36b4fe2a]" started-at="2022-04-21T14:20:15Z" name="after" finished-at="2022-04-21T14:20:40Z" duration-ms="25068" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testMainMenu status=SUCCESS method=TestMainPage.testMainMenu()[pri:0, instance:tests.TestMainPage@36b4fe2a] output=TS - Main Page - Main Menu]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:tests.TestMainPage@36b4fe2a]" started-at="2022-04-21T14:20:40Z" name="before" finished-at="2022-04-21T14:21:14Z" duration-ms="34442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="testSearchFunctionality()[pri:1, instance:tests.TestMainPage@36b4fe2a]" started-at="2022-04-21T14:21:14Z" name="testSearchFunctionality" finished-at="2022-04-21T14:21:29Z" duration-ms="14966" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TS - Main Page - Search Functionality]]>
+            </line>
+            <line>
+              <![CDATA[TC - Check search func]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\CRC\workshop\TestPOMaccenture\test-output\test-screenshots\screen_testSearchFunctionality.png'> <img src='C:\CRC\workshop\TestPOMaccenture\test-output\test-screenshots\screen_testSearchFunctionality.png' height='200' width='200'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Close Browser - End Test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSearchFunctionality -->
+        <test-method is-config="true" signature="after(org.testng.ITestResult)[pri:0, instance:tests.TestMainPage@36b4fe2a]" started-at="2022-04-21T14:21:29Z" name="after" finished-at="2022-04-21T14:21:31Z" duration-ms="1982" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSearchFunctionality status=SUCCESS method=TestMainPage.testSearchFunctionality()[pri:1, instance:tests.TestMainPage@36b4fe2a] output=TS - Main Page - Search Functionality]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:tests.TestMainPage@36b4fe2a]" started-at="2022-04-21T14:21:31Z" name="before" finished-at="2022-04-21T14:21:54Z" duration-ms="23024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="testFooter()[pri:2, instance:tests.TestMainPage@36b4fe2a]" started-at="2022-04-21T14:21:54Z" name="testFooter" finished-at="2022-04-21T14:21:55Z" duration-ms="1021" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="footer-block"]/div/div/div/div/div[2]/div[1]/div/div[1]/div/a"}
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'CPX-92SB1NETZ2Z', ip: '192.168.154.241', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d8a9e428691daec3814f5b80ff0c24a5, findElement {using=xpath, value=//*[@id="footer-block"]/div/div/div/div/div[2]/div[1]/div/div[1]/div/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\A1624~1.LUK\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:55829}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55829/devtoo..., se:cdpVersion: 100.0.4896.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d8a9e428691daec3814f5b80ff0c24a5]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="footer-block"]/div/div/div/div/div[2]/div[1]/div/div[1]/div/a"}
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'CPX-92SB1NETZ2Z', ip: '192.168.154.241', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d8a9e428691daec3814f5b80ff0c24a5, findElement {using=xpath, value=//*[@id="footer-block"]/div/div/div/div/div[2]/div[1]/div/div[1]/div/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\A1624~1.LUK\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:55829}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55829/devtoo..., se:cdpVersion: 100.0.4896.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d8a9e428691daec3814f5b80ff0c24a5
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at jdk.proxy2/jdk.proxy2.$Proxy19.click(Unknown Source)
+at pages.MainPage.clickFooterAboutUs(MainPage.java:84)
+at tests.TestMainPage.testFooter(TestMainPage.java:75)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[TS - Main Page - Footer]]>
+            </line>
+            <line>
+              <![CDATA[Step 1 : clickFooterAboutUs]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\CRC\workshop\TestPOMaccenture\test-output\test-screenshots\screen_testFooter.png'> <img src='C:\CRC\workshop\TestPOMaccenture\test-output\test-screenshots\screen_testFooter.png' height='200' width='200'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Close Browser - End Test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testFooter -->
+        <test-method is-config="true" signature="after(org.testng.ITestResult)[pri:0, instance:tests.TestMainPage@36b4fe2a]" started-at="2022-04-21T14:21:55Z" name="after" finished-at="2022-04-21T14:21:59Z" duration-ms="3375" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testFooter status=FAILURE method=TestMainPage.testFooter()[pri:2, instance:tests.TestMainPage@36b4fe2a] output=TS - Main Page - Footer]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:tests.TestMainPage@36b4fe2a]" started-at="2022-04-21T14:21:59Z" name="before" finished-at="2022-04-21T14:22:14Z" duration-ms="15057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="testSubscribeFooter()[pri:2, instance:tests.TestMainPage@36b4fe2a]" started-at="2022-04-21T14:22:14Z" name="testSubscribeFooter" finished-at="2022-04-21T14:22:17Z" duration-ms="2665" status="FAIL">
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <span class="bp-cta-footer-circle">...</span> is not clickable at point (36, 1263). Other element would receive the click: <div id="onetrust-policy">...</div>
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'CPX-92SB1NETZ2Z', ip: '192.168.154.241', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [900d2532f4f2583b55e872fbd0e8547d, clickElement {id=cf082f66-055d-40d7-b32e-c8f99dda6fd8}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\A1624~1.LUK\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:55937}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55937/devtoo..., se:cdpVersion: 100.0.4896.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (900d2532f4f2583b55e872fbd0e8547d)] -> class: bp-cta-footer-circle]
+Session ID: 900d2532f4f2583b55e872fbd0e8547d]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span class="bp-cta-footer-circle">...</span> is not clickable at point (36, 1263). Other element would receive the click: <div id="onetrust-policy">...</div>
+  (Session info: chrome=100.0.4896.127)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'CPX-92SB1NETZ2Z', ip: '192.168.154.241', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [900d2532f4f2583b55e872fbd0e8547d, clickElement {id=cf082f66-055d-40d7-b32e-c8f99dda6fd8}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\A1624~1.LUK\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:55937}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55937/devtoo..., se:cdpVersion: 100.0.4896.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (900d2532f4f2583b55e872fbd0e8547d)] -> class: bp-cta-footer-circle]
+Session ID: 900d2532f4f2583b55e872fbd0e8547d
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:251)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+at jdk.proxy2/jdk.proxy2.$Proxy19.click(Unknown Source)
+at pages.MainPage.clickSubscribeButton(MainPage.java:90)
+at tests.TestMainPage.testSubscribeFooter(TestMainPage.java:90)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+            <line>
+              <![CDATA[TS - Main Page - Subscribe]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\CRC\workshop\TestPOMaccenture\test-output\test-screenshots\screen_testSubscribeFooter.png'> <img src='C:\CRC\workshop\TestPOMaccenture\test-output\test-screenshots\screen_testSubscribeFooter.png' height='200' width='200'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Close Browser - End Test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSubscribeFooter -->
+        <test-method is-config="true" signature="after(org.testng.ITestResult)[pri:0, instance:tests.TestMainPage@36b4fe2a]" started-at="2022-04-21T14:22:17Z" name="after" finished-at="2022-04-21T14:22:18Z" duration-ms="1497" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSubscribeFooter status=FAILURE method=TestMainPage.testSubscribeFooter()[pri:2, instance:tests.TestMainPage@36b4fe2a] output=TS - Main Page - Subscribe]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- tests.TestMainPage -->
+    </test> <!-- C:/CRC/workshop/TestPOMaccenture -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
